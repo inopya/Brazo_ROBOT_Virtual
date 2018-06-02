@@ -1,19 +1,25 @@
-﻿#         _\|/_
+#-*- coding: UTF-8 -*-
+#
+#
+#         _\|/_   A ver..., ¿que tenemos por aqui?
 #         (O-O)
 # -----oOO-(_)-OOo----------------------------------------------------
 
 #######################################################################
 # ******************************************************************* #
-# *             ROBOT Virtual  v3.0     23/06/2014 00:27            * #
-# *      Funciona giro, subir y bajar, coger y soltar objetos       * #
+# *                       BRAZO ROBOT Virtual                       * #
+# *     (Funciona giro, subir y bajar, coger y soltar objetos)      * #
+# *        -Elementos creados a partir de la clase 'Hueso'-         * #
 # *                                                                 * #
-# *         Elementos creados a partir de la clase 'Hueso'          * #
+# *                   Autor:  Eulogio López Cayuela                 * #
 # *                                                                 * #
+# *                  Versión 3.0   Fecha: 23/06/2014                * #
 # *                                                                 * #
 # ******************************************************************* #
 #######################################################################
 
-# Importa las funcionalidades matematicas y en entorno gráfico Tkinter
+
+# Importar las funcionalidades matematicas y en entorno gráfico Tkinter
 
 from math import *
 from tkinter import *
